@@ -82,6 +82,9 @@ Includes:
 
 ## Pyramid view – Start & Top
 
+!!! tip "Always climb levels in order"
+    Don’t patch Level 4 **practices** when Level 1–2 **preconditions or human needs** are weak. Fix lower levels first—then revisit practices.
+
 - **It starts** at Level 1 the moment two or more people have a reason to interact for mutual value.
 - **It tops** at Level 5 when teams become self-evolving systems, capable of diagnosing, designing, and improving their own way of working without external imposition.
 

@@ -12,27 +12,24 @@ The Human Work System Matrix — a **minimal viable system of work** — the sma
 
 ## Dimensions of the Matrix
 
-- **Horizontal axis = Core Human Needs** for Collaborative Work (what we need to function together)
-- **Vertical axis = Core Work Conditions** (what conditions or contexts must exist)
+> **Naming note:** The term **Change/Uncertainty tolerance** is used consistently across HWSF to emphasize both the presence of change and the system’s capacity to act under it.
 
-Each **cell** in this matrix represents a **minimal function** that must be present when people work together. For example:
+- **Horizontal axis — Core Human Needs** for Collaborative Work<br/>
+  Represents what individuals and groups require to function together effectively.
 
-- Common Purpose × Shared Understanding → People need to agree on why they’re working together.
-- Interdependence × Feedback Loops → People must reflect on how their work affects others.
-- Change × Autonomy → People need the freedom to adapt locally to uncertainty.
+- **Vertical axis — Core Work Conditions**<br/>
+  Represents the external and structural contexts that must exist for collaboration to take place.
 
-This is prior to any method, tool, or framework.
+Each **cell** in the matrix expresses a **minimal system function** that must be present for collaboration to emerge.<br/>
+Examples illustrate how these dimensions intersect:
 
-You can then “stack” Agile, DevOps, OKRs, AI agents, etc. on top of this matrix, but this is the ground floor.
+- *Common Purpose × Shared Understanding → Alignment on why* — shared intent behind joint work.
+- *Interdependence × Feedback Loops → Outcome reflection* — awareness of mutual impact and adaptation.
+- *Change/Uncertainty × Autonomy & Agency → Adaptability* — the capacity to act locally under changing conditions.
 
-The **Principle–Practice Matrix** is the **operational layer** — how we maintain and optimize collaboration in action.
-
-This **zoomed-out Human Work System Matrix** is the **existential layer** — what makes collaboration *possible at all*.
-
-You could use this new matrix to **validate or extend** your current framework:
-
-- Are there functions you’ve assumed but not made explicit?
-- Are any practice categories in your model missing a foundational need from this system?
+The matrix defines the **existential layer** of human work systems — the foundation that makes collaboration possible, preceding any specific framework, tool, or methodology.<br/>
+Above this layer, operational frameworks such as Agile, DevOps, or OKRs can be positioned as implementations of the underlying functions identified here.<br/>
+The **Principle–Practice Matrix** later extends this logic to the operational layer, describing how collaboration is maintained and optimized once the foundational functions are active.
 
 ## The Human Work System Matrix – Descriptions
 
