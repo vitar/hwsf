@@ -1,5 +1,5 @@
 site_name: "Human Work System Framework (HWSF)"
-site_description: "Work in progress!"
+site_description: "A *theory-first lens* that describes the **preconditions, human needs, and stable functions** required for any collaborative work to exist and succeed."
 site_author: "Viktor Jevdokimov, Vilnius, Lithuania"
 copyright: "© 2025 3in3.dev"
 
@@ -36,7 +36,7 @@ plugins:
   - search
   - to-pdf:
       output_path: "pdf/hwsf.pdf"
-      cover_subtitle: "Work in progress!"
+      cover_subtitle: "A *theory-first lens* that describes the **preconditions, human needs, and stable functions** required for any collaborative work to exist and succeed."
       toc_level: 3
       ordered_chapter_level: 3
 
@@ -46,6 +46,8 @@ nav:
   - THEORY:
     - 100-theory/110-matrix.md
     - 100-theory/120-pyramid.md
+    - 100-theory/130-level-rule.md
+    - 100-theory/140-diagnostic-workflow.md
   - REFERENCE:
     - author.md
 
