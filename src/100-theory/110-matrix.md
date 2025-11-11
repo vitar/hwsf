@@ -75,7 +75,7 @@ This document contains definitions and purpose explanations for each element in 
 15. **Communication × Autonomy & Agency = Permission to act** - People need communication channels to raise concerns, ask for support, or declare decisions.
 
 16. **Trust × Shared Understanding = Meaning consistency** - Trust grows when people interpret intentions and actions reliably.
-17. **Trust × Mutual Commitment = Reliability**  - Trust enables people to believe that others will deliver on their promises.
+17. **Trust × Mutual Commitment = Reliability** - Trust enables people to believe that others will deliver on their promises.
 18. **Trust × Feedback Loops = Safety in feedback** - Safe environments allow for honest feedback without fear of blame.
 19. **Trust × Distribution of Roles = Delegation** - Clear roles reduce friction and show respect for expertise, reinforcing trust.
 20. **Trust × Autonomy & Agency = Empowerment** - Trust enables freedom to act without micromanagement.
