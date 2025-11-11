@@ -1,0 +1,55 @@
+site_name: "Human Work System Framework (3SF)"
+site_description: "Work in progress!"
+site_author: "Viktor Jevdokimov, Vilnius, Lithuania"
+copyright: "© 2025 3in3.dev"
+
+docs_dir: src
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tracking
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+plugins:
+  - search
+  - to-pdf:
+      output_path: "pdf/hwsf.pdf"
+      cover_subtitle: "Work in progress!"
+      toc_level: 3
+      ordered_chapter_level: 3
+
+nav:
+  - INTRODUCTION & QUICK START:
+    - index.md
+  - THEORY:
+    - 100-theory/110-3in3-model.md
+    - 100-theory/120-contextual-drivers-layer.md
+  - REFERENCE:
+    - author.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
