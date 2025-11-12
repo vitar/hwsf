@@ -1,3 +1,3 @@
-# HWSF Repository Overview
+# HCS Repository Overview
 
-This repo curates the **Human Work System Framework (HWSF)** knowledge base.
+This repo curates the **Human Cooperation System (HCS)** knowledge base.
