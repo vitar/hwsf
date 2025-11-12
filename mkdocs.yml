@@ -1,5 +1,5 @@
-site_name: "[DRAFT] Human Work System Framework (HWSF)"
-site_description: "A theory-first lens that describes the preconditions, human needs, and stable functions required for any collaborative work to exist and succeed."
+site_name: "[DRAFT] Human Cooperation System (HCS)"
+site_description: "A diagnostic lens for understanding how human cooperation enables effective work."
 site_author: "Viktor Jevdokimov, Vilnius, Lithuania"
 copyright: "© 2025 3in3.dev"
 
@@ -36,7 +36,7 @@ plugins:
   - search
   - to-pdf:
       output_path: "pdf/hwsf.pdf"
-      cover_subtitle: "A theory-first lens that describes the preconditions, human needs, and stable functions required for any collaborative work to exist and succeed."
+      cover_subtitle: "A diagnostic lens for understanding how human cooperation enables effective work."
       toc_level: 3
       ordered_chapter_level: 3
 
