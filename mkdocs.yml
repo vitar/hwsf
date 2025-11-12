@@ -35,7 +35,7 @@ theme:
 plugins:
   - search
   - to-pdf:
-      output_path: "pdf/hcf.pdf"
+      output_path: "pdf/hcs.pdf"
       cover_subtitle: "A diagnostic lens for understanding how human cooperation enables effective work."
       toc_level: 3
       ordered_chapter_level: 3
