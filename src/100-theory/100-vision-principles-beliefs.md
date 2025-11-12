@@ -16,6 +16,9 @@ HCS envisions a world where cooperation is treated as a **systemic discipline**,
 HCS is governed by a small set of **systemic principles** that translate into all later models and diagnostics.<br/>
 They describe *how cooperation remains stable* and *why interventions must follow structure, not trend.*
 
+The following principles describe the **systemic physics** that govern all cooperative work.<br/>
+They form the theoretical foundation that 3SF and other frameworks later apply as operational principles.
+
 | Principle | Description |
 | :--- | :--- |
 | **Function-First** | Every method or practice must serve a clear cooperative *function*. Tools and rituals are effective only when matched to their purpose. |
@@ -43,13 +46,9 @@ HCS is built on several **core beliefs** about human work systems:
 HCS does not prescribe **how** to manage projects, design organizations, or measure performance.<br/>
 Instead, it defines **what makes cooperation functionally possible** — a diagnostic foundation for any framework, method, or governance model.
 
-HCS is **not**:
-
-- A replacement for Agile, Lean, or management systems.
-- A behavioral theory of personality or motivation.
-- A fixed sequence of practices or rituals.
-
-It is a **system lens** — a way to see cooperation as an interconnected structure that either supports or constrains all other methods.
+- **Not a Process:** HCS is not a prescriptive method or task management system (Level 4). It is a diagnostic tool for system design and intervention (Level 5).
+- **Not an Org Chart:** HCS does not replace organizational structures. It defines functional roles and relationships that cut across departments.
+- **Not Therapy:** HCS is not a psychological model for individual behavior. It is a framework for organizational and behavioral governance within work systems.
 
 ## Bridge to Practice
 

@@ -1,6 +1,10 @@
 # Human Cooperation System (HCS) – From Context to Practice
 
-> A diagnostic system for understanding how human cooperation sustains effective work.
+A diagnostic system for understanding how human cooperation sustains effective work.
+
+> **30-Second Summary**<br/>
+> The **Human Cooperation System (HCS)** is a diagnostic lens that defines the **25 stable functions required for human cooperation to exist and adapt**.<br/>
+> It helps leaders and teams see where trust, clarity, or structure must be strengthened before changing practices or frameworks.
 
 ## Introduction
 
@@ -39,6 +43,9 @@ Together, these dimensions form the **Systemic Basis of Work** — the foundatio
 3. Study the **[Pyramid](100-theory/120-pyramid.md)** to see how stability develops from *preconditions → meta-practices*.
 4. Apply **[The Level Rule](100-theory/130-level-rule.md)** to identify where interventions must start.
 5. Use the **[Diagnostic Workflow](100-theory/140-diagnostic-workflow.md)** to turn observations into action.
+
+*Why This Path:*<br/>
+Start with **Theory** to understand the *why* of cooperation, then apply the **Diagnostic Workflow** to learn *how to act* on it.
 
 ## Positioning
 
