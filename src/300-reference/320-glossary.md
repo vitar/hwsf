@@ -1,7 +1,7 @@
 # Glossary
 
 The **Human Cooperation System (HCS)** defines a foundational language for describing the dynamics of **cooperative work systems** — how individuals and groups align, commit, and adapt together across levels of stability and change.<br/>
-This glossary supports consistency across HCS Theory, Pyramid, Matrix, and Diagnostic Workflow.
+This glossary supports consistency across HCS Core Model, Pyramid, Matrix, and Diagnostic Workflow.
 
 ## Core System Terms
 

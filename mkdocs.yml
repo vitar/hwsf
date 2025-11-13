@@ -43,7 +43,7 @@ plugins:
 nav:
   - INTRODUCTION & QUICK START:
     - index.md
-  - THEORY:
+  - CORE MODEL:
     - 100-core-model/100-vision-principles-beliefs.md
     - 100-core-model/110-matrix.md
     - 100-core-model/120-pyramid.md

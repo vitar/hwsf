@@ -45,7 +45,7 @@ Together, these dimensions form the **Systemic Basis of Work** — the foundatio
 5. Use the **[Diagnostic Workflow](100-core-model/140-diagnostic-workflow.md)** to turn observations into action.
 
 *Why This Path:*<br/>
-Start with **Theory** to understand the *why* of cooperation, then apply the **Diagnostic Workflow** to learn *how to act* on it.
+Start with **Core Model** to understand the *why* of cooperation, then apply the **Diagnostic Workflow** to learn *how to act* on it.
 
 ## Positioning
 
