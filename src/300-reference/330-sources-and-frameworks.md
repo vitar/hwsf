@@ -24,6 +24,9 @@ Each source is categorized by its **theoretical contribution area** — systemic
 | **Theory X and Theory Y (McGregor)** | Management assumptions influence employee motivation and trust. | Supports HCS’s framing of *Trust* and *Agency* as emergent, not enforceable, conditions. |
 | **Psychological Safety (Edmondson)** | Teams learn and innovate when members feel safe to take interpersonal risks. | Embedded in HCS’s *Learning and Adaptation* function. |
 | **Social Exchange Theory (Blau)** | Relationships are sustained through reciprocal benefit and fairness. | Grounds HCS’s view of *Mutual Commitment* as both emotional and contractual. |
+| **Self-Determination Theory / Modern Motivation Models** | Motivation emerges from autonomy, mastery, and belonging rather than external control. | Supports HCS Extended Needs around autonomy, growth, and recognition. |
+| **SCARF Model (David Rock)** | Social threat and reward shape behavior through status, certainty, autonomy, relatedness, and fairness. | Provides psychological foundations for Extended Needs and psychological vectors. |
+| **Intrinsic Motivation Models (Pink / Oldham / Hackman)** | Engagement increases when work is meaningful, self-directed, and feedback-rich. | Aligns with Extended Needs such as purpose, autonomy, and growth. |
 
 ## Communication and Shared Meaning
 
@@ -32,7 +35,8 @@ Each source is categorized by its **theoretical contribution area** — systemic
 | **Shannon–Weaver Model of Communication** | Information transmission depends on reducing noise and distortion. | Forms basis for HCS’s *Communication Fidelity* function. |
 | **Double-Loop Learning (Argyris & Schön)** | True learning requires questioning underlying assumptions, not just correcting errors. | Informs *Reflective Practice* and *Level 5 Meta-Systems Thinking*. |
 | **Sensemaking (Weick)** | People construct meaning retrospectively to understand ambiguous situations. | Explains why *Shared Understanding* is a dynamic, co-created process. |
-| **Nonviolent Communication (Rosenberg)** | Empathic communication strengthens relationships and trust. | Reinforces the emotional intelligence aspect of *Trust* and *Feedback Loops*. |
+| **Nonviolent Communication (Marshall Rosenberg)** | Needs-based, empathetic dialogue that improves relational clarity and trust. | Supports Core Trust (feedback clarity) and Extended Relational Conditions (emotional safety, conflict repair). |
+| **Radical Candor (Kim Scott)** | Honest, caring communication strengthens accountability and relationships. | Informs relational repair within Extended Dynamics. |
 
 ## Organizational Design and Governance
 
@@ -44,6 +48,14 @@ Each source is categorized by its **theoretical contribution area** — systemic
 | **Adaptive Leadership (Heifetz)** | Leadership is about enabling systems to adapt, not control. | Mirrors the *Systemic Governance* and *Agency* principles in HCS. |
 | **Organizational Learning (Argyris, Senge)** | Organizations evolve when individuals learn within systemic feedback structures. | Reinforces *Systemic Learning* and the importance of *feedback closure*. |
 
+## Power, Influence, and Organizational Politics
+
+| Source / Framework | Core Idea | Relevance to HCS |
+| :--- | :--- | :--- |
+| **French & Raven’s Bases of Power** | Power derives from position, expertise, relationships, information, and personal influence. | Forms the basis of HCS’s *political vector*, explaining how influence affects cooperation. |
+| **Organizational Politics Research (Mintzberg / Pfeffer)** | Informal networks, hidden agendas, and resource negotiation shape real decision-making. | Validates HCS’s distinction between *formal structure* and *actual influence flows*. |
+| **Stakeholder Theory (Freeman)** | Organizations must manage diverse interests and legitimacy claims. | Supports Collective Extended Needs around fairness, representation, and legitimacy. |
+
 ## Philosophical and Ethical Foundations
 
 | Source / Framework | Core Idea | Relevance to HCS |
@@ -53,6 +65,14 @@ Each source is categorized by its **theoretical contribution area** — systemic
 | **Ubuntu Philosophy (“I am because we are”)** | Human identity and well-being are inseparable from community. | Embodies the relational worldview behind *Interdependence* and *Mutual Commitment*. |
 | **Phenomenology (Husserl / Merleau-Ponty)** | Meaning is constructed through lived experience. | Supports HCS’s principle that *Shared Understanding* emerges through interaction, not instruction. |
 
+## Interpersonal Dynamics and Conflict
+
+| Source / Framework | Core Idea | Relevance to HCS |
+| :--- | :--- | :--- |
+| **Conflict Styles (Thomas–Kilmann)** | People favor competing, avoiding, accommodating, compromising, or collaborating under tension. | Helps interpret relational distortions in Extended Conditions. |
+| **Attachment Theory (Bowlby / Ainsworth)** | Safety and past relational patterns influence trust and conflict behaviour. | Provides psychological grounding for individual Extended Needs (safety, belonging). |
+| **Emotional Intelligence (Goleman)** | Self-awareness and empathy shape communication effectiveness. | Aligns with relational conditions and leader behavior in Extended Dynamics. |
+
 ## Bridging Toward Practice
 
 | Source / Framework | Core Idea | Relevance to HCS |
@@ -61,6 +81,9 @@ Each source is categorized by its **theoretical contribution area** — systemic
 | **3-in-3 SDLC Framework (3SF)** | Systemic governance model for client–vendor ecosystems. | Serves as a *Level 5 derivative* — an applied embodiment of HCS principles. |
 | **Team Topologies (Skelton & Pais)** | Structures teams for flow and cognitive load balance. | In practice, can be evaluated through HCS’s *Execution & Coordination* function. |
 | **VMOSA / OKR / Wardley Maps** | Strategic planning and situational awareness frameworks. | Connect to *Strategic Alignment* at Level 3, translating cooperative intent into measurable direction. |
+| **Situational Leadership (Hersey–Blanchard)** | Leadership behavior must match follower readiness and capability. | Supports Extended Needs around growth, autonomy, and developmental alignment. |
+| **Liberating Structures** | Creates equal-opportunity participation environments. | Supports fairness, belonging, and balanced contribution in Extended Dynamics. |
+| **RACI / Decision Records (ADR/CDR)** | Makes decisions, ownership, and roles explicit. | Reinforces Core Conditions: clarity, coordination, and boundary safety. |
 
 ## Reference Philosophy
 

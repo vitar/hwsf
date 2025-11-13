@@ -16,15 +16,15 @@ It ensures transparency, traceability, and consistency across all derivative wor
 
 ### Version Summary
 
-Version 1.0 consolidates the **core theoretical architecture** of the Human Cooperation System, including:
+Version 1.0 consolidates the **foundational architecture** of the Human Cooperation System across two complementary layers:
 
-- **Pyramid Model** — five hierarchical levels of stability, from human conditions to meta-practices.
-- **Matrix Model (5×5)** — mapping of cooperative dimensions across fundamental human needs.
-- **Level Rule** — the governing principle of hierarchical interdependence and systemic stability.
-- **Diagnostic Workflow** — structured method for identifying dysfunctions and matching them to system functions.
-- **Reference Section** — Glossary, Theoretical Grounding, Licensing, and Author information.
+- **Core Model** — the structural foundation of cooperation, including the 5×5 Matrix, Pyramid, Level Rule, and Diagnostic Workflow.
+- **Extended Human Dynamics** — classification of collective and individual conditions and needs, and the influence of psychological and political vectors on real-world cooperation.
+- **Reference Practices Map** — a non-prescriptive orientation linking common leadership and communication practices to relevant HCS functions.
+- **Reference Section** — Glossary and theoretical sources covering systemic, psychological, relational, and governance influences.
 
-This release establishes HCS as the **foundational theory** upon which practical frameworks (such as 3SF) and diagnostic tools can be built.
+This release establishes HCS as a **complete V1.0 system**:<br/>
+a stable theoretical base (Core Model) and a complementary human-centered layer (Extended Dynamics), suitable for diagnostics, education, and derivative frameworks such as 3SF.
 
 ## Licensing
 

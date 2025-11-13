@@ -27,7 +27,7 @@ If you’ve arrived here from the **3-in-3 SDLC Framework (3SF)**, HCS represent
 
 ## Purpose
 
-HCS serves as a **diagnostic and theoretical system** for understanding and improving cooperation across all forms of human work — from teams and organizations to partnerships and ecosystems.
+HCS serves as a **diagnostic and theoretical system** for understanding and improving cooperation across all forms of human work — from teams and organizations to partnerships and ecosystems.<br/>
 It does not prescribe methods; instead, it offers a *lens* to evaluate which functions must exist and interact coherently for cooperation to succeed.
 
 - It describes the **preconditions** that enable cooperation.
@@ -36,7 +36,46 @@ It does not prescribe methods; instead, it offers a *lens* to evaluate which fun
 
 Together, these dimensions form the **Systemic Basis of Work** — the foundation upon which all frameworks, practices, and tools must rest.
 
+## Structure of the System
+
+HCS is organized into two complementary layers:
+
+### **Core Model**
+
+The Core Model defines the **minimal systemic conditions, human needs, and functional primitives** required for cooperation to exist.<br/>
+It answers:<br/>
+**What must be true for people to work together at all?**
+
+This layer includes:
+
+- Foundations, principles, and beliefs
+- The 5×5 Matrix of conditions × needs
+- The Pyramid (Preconditions → Meta-Practices)
+- The Level Rule
+- The Diagnostic Workflow
+
+The Core Model is universal, stable, and framework-independent.
+
+### **Extended Human Dynamics**
+
+Beyond the structural minimum, cooperation is shaped by **contextual, psychological, and political forces** that influence how work is experienced.
+
+This layer answers:<br/>
+**Why is cooperation difficult in real organizations?**
+
+It describes:
+
+- Collective and individual variations in conditions and needs
+- Psychological and political vectors that distort cooperation
+- Relational, cultural, and developmental dynamics
+- Reference practices used to explore these dynamics
+
+The Extended layer does **not** modify the Core Model.<br/>
+It provides a vocabulary for diagnosing human complexity without turning HCS into a behavior-change framework.
+
 ## Reading Path
+
+### Start with the **Core Model**
 
 1. Begin with the **[Vision, Principles, and Beliefs](100-core-model/100-vision-principles-beliefs.md)** to understand HCS intent and mindset.
 2. Explore the **[Matrix](100-core-model/110-matrix.md)** — a five-by-five landscape of *conditions × needs*.
@@ -44,8 +83,17 @@ Together, these dimensions form the **Systemic Basis of Work** — the foundatio
 4. Apply **[The Level Rule](100-core-model/130-level-rule.md)** to identify where interventions must start.
 5. Use the **[Diagnostic Workflow](100-core-model/140-diagnostic-workflow.md)** to turn observations into action.
 
-*Why This Path:*<br/>
-Start with **Core Model** to understand the *why* of cooperation, then apply the **Diagnostic Workflow** to learn *how to act* on it.
+### Continue with **Extended Human Dynamics** (optional, recommended)
+
+If the Core Model is clear but cooperation still feels tense, political, or emotionally difficult, proceed to:
+
+- **[Extended Conditions](200-extended-model/210-extended-conditions.md)**
+- **[Extended Needs](200-extended-model/220-extended-needs.md)**
+- **[Diagnostic Dynamics](200-extended-model/230-diagnostic-dynamics.md)**
+- **[Practices Map](200-extended-model/240-practices-map.md)**
+- **[Integration Guide](200-extended-model/250-integration-guide.md)**
+
+This layer helps diagnose complexity without conflating human issues with structural ones.
 
 ## Positioning
 

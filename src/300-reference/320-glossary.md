@@ -60,6 +60,27 @@ This glossary supports consistency across HCS Core Model, Pyramid, Matrix, and D
 | **Agile / Lean / Scrum** | Examples of Level 4 frameworks that depend on stable lower-level cooperative functions to succeed. |
 | **Systems Thinking** | The philosophical foundation of HCS — viewing cooperation as an interconnected adaptive system rather than a set of isolated practices. |
 
+## Extended Conditions and Needs
+
+| Term | Meaning |
+| :--- | :--- |
+| **Extended Conditions Types** | Contextual, relational, structural, developmental categories used to classify non-core influences. |
+| **Extended Conditions** | Contextual, relational, structural, and developmental factors that influence how cooperation is experienced. They do not alter the Core Model but explain variation in quality, tension, or stability. |
+| **Extended Needs Categories** | Purpose, trust/safety, growth, belonging/recognition, autonomy/coherence. |
+| **Extended Needs** | Human motivational and relational needs (purpose, recognition, belonging, growth, autonomy) that affect engagement and emotional experience within cooperation. Not required for the Core Model to function but critical for sustained, humane collaboration. |
+| **Collective Conditions / Needs** | System-level patterns, narratives, norms, or motivations that emerge from groups rather than individuals. They influence shared meaning, fairness, identity, and cohesion. |
+| **Individual Conditions / Needs** | A person’s lived experience within cooperation — clarity, predictability, psychological safety, recognition, growth, autonomy, and emotional security. |
+| **Distortion Vectors** | Forces that amplify or suppress conditions and needs, making cooperation difficult even when structure is intact. Represented as political or psychological influences. |
+| **Quadrant** | The four-way classification used in Extended Human Dynamics: Collective Condition, Individual Condition, Collective Need, Individual Need. Guides correct intervention level and prevents misdiagnosis. |
+
+## Influence Fields
+
+| Term | Meaning |
+| :--- | :--- |
+| **Political Vector** | The influence of power, legitimacy, resource control, representation, and informal hierarchies on cooperation. Political dynamics affect permission, visibility, and whose interests shape decisions. |
+| **Psychological Vector** | The influence of emotions, identity, fear, uncertainty, trust posture, and personal narratives on cooperation. Psychological dynamics affect participation, safety, and interpretation of events. |
+| **Intervention Level** | The correct systemic layer at which an issue must be addressed — structural, collective, relational, or individual. Prevents treating human issues as structural failures or vice versa. |
+
 ## Reference Purpose
 
 This glossary ensures terminological clarity across all components of the Human Cooperation System and supports:

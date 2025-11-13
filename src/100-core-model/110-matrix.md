@@ -18,6 +18,8 @@ When mapped across real situations, the Matrix shows *why cooperation either flo
 
 Each intersection represents a function of cooperation, later used by the Diagnostic Workflow to connect theory to practical improvement.
 
+The Matrix defines only the structural minimum; additional human dynamics affecting cooperation are covered in the [**Extended Human Dynamics**](../200-extended-model/200-intro-purpose.md) section.
+
 ## Dimensions of the Matrix
 
 > **Naming note:** The term **Change/Uncertainty tolerance** is used consistently across HCS to emphasize both the presence of change and the system’s capacity to act under it.

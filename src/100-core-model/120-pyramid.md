@@ -52,6 +52,8 @@ Examples:
 - **Distribution of Roles** — clarity on who does what.
 - **Autonomy & Agency** — freedom and authority to act.
 
+These remain part of the Core Model; additional human needs (e.g., belonging, meaning, identity, recognition) are addressed in the [**Extended Human Dynamics**](../200-extended-model/220-extended-needs.md) section.
+
 *Maslow analogy*: Belonging and esteem needs — creating security in relationships and a sense of contribution.
 
 ## Level 3 – Cooperative System Functions
@@ -132,3 +134,5 @@ When diagnosing cooperation:
 - Weakness in **Level 5** shows that the system can’t yet learn or evolve on its own.
 
 The Pyramid reframes improvement discussions from *‘Which framework should we adopt?’* to *‘Which layer of cooperation must be stabilized first?’* — the essence of the Level Rule.
+
+If lower Core levels appear stable but cooperation still feels fragile, tense, or political, consult the [**Extended Human Dynamics**](../200-extended-model/200-intro-purpose.md) section.

@@ -28,6 +28,7 @@ This ensures that diagnosis starts from data, not opinion.
 
 Map the observation to the **[HCS Matrix](110-matrix.md)**:<br/>
 Which **Condition** (vertical axis) and which **Human Need** (horizontal axis) are involved?
+If the structural cell seems correct but the issue persists emotionally or politically, use the [**Extended Human Dynamics**](../200-extended-model/200-intro-purpose.md) section to examine contextual or relational distortions.
 
 **Example:**
 > **Interdependence × Feedback Loops → Outcome Reflection**<br/>

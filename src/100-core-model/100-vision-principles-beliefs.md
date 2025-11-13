@@ -23,7 +23,7 @@ They form the theoretical foundation that 3SF and other frameworks later apply a
 | :--- | :--- |
 | **Function-First** | Every method or practice must serve a clear cooperative *function*. Tools and rituals are effective only when matched to their purpose. |
 | **The Level Rule** | A dysfunction cannot be corrected at a higher level than where it originates. Stability builds from the bottom up — from human conditions to frameworks. |
-| **Evidence Over Opinion** | Cooperation is observable. Use behavior and outcomes as evidence before assuming intent or motivation. |
+| **Evidence Over Interpretation** | Cooperation is observable. Use behavior and outcomes as evidence before assuming intent or motivation. |
 | **Feedback Closes the Loop** | Stability depends on timely, accurate feedback — at personal, team, and systemic levels. Unclosed loops lead to drift and mistrust. |
 | **Autonomy with Accountability** | Freedom without shared responsibility fragments; control without autonomy suffocates. Balance creates flow. |
 | **Clarity Before Speed** | Communication fidelity and shared understanding are prerequisites for efficiency. Misalignment is the costliest waste. |
