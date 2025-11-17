@@ -171,28 +171,46 @@ Level 5 answers the question:
 
 ## Interpreting and Using the Pyramid
 
-The Pyramid provides a way to reason about *where* cooperation is currently constrained and *in what order* it must be stabilized.
+The Pyramid expresses the **Level Rule** of the Human Cooperation System:
 
-Some practical implications:
+> **Level Rule (HCS)**  
+> You can experiment at any level,  
+> but you can only **stabilize** cooperation by restoring the **lowest unstable level** first.
 
-- **Do not start at Level 4.**  
-  Adopting or changing practices cannot compensate for missing preconditions or unmet needs.
+In practice, this means:
 
-- **Stabilize lower levels first.**  
-  If Level 1–2 are fragile, Level 3 functions will constantly degrade, and Level 4–5 improvements will not stick.
+- **Do not start from Level 4 or 5.**  
+  Changing practices, tools, or rituals cannot compensate for missing preconditions (Level 1) or unmet human needs (Level 2).
 
-- **Expect recursion, not linear progress.**  
-  Insights from Level 5 can refine Level 4; feedback from Level 3 can reveal gaps in Level 2; context shifts can destabilize Level 1.
+- **Stabilize from the bottom up.**  
+  If Levels 1–2 are fragile, Level 3 functions will keep degrading, and Level 4–5 improvements will fade or backfire.
+
+- **Expect feedback between levels, not a strict ladder.**  
+  Insights at Level 5 can refine Level 4; struggles at Level 3 can reveal gaps in Levels 1–2; context shifts can destabilize Level 1.  
+  The Level Rule does not enforce linear progress — it enforces **dependency awareness**.
+
+  When teams repeatedly change practices or tools at Level 4 to avoid addressing deeper issues in Levels 1–3, they are attempting **Encapsulation**.  
+  The Level Rule redirects attention toward **Integration at the depth where instability actually lives**.
 
 - **Separate function from implementation.**  
-  When a practice fails, check whether the underlying function is supported at Levels 1–3 before replacing the practice.
+  When a practice fails, first ask which Level 3 function is under strain, and whether Levels 1–2 can support it, before replacing the practice itself.
+
+At its core, the **Level Rule** is a **discipline of attention**:
+
+> Look for the **lowest unstable level** first,  
+> and restore stability there before expecting higher-level changes to last.
 
 In the broader HCS:
 
-- The **Matrix** describes the detailed functions that live at Levels 1–3.  
-- The **Pyramid** explains their dependency order.  
-- The **System Modes** describe how to act on this structure in different stages of work (e.g., Setup, Stabilization, Growth, Conflict, Reset).
+- The **Matrix** describes the detailed cooperation functions that live primarily at Levels 1–3.  
+- The **Pyramid** explains how these functions depend on one another over time.  
+- The **Extended Human Dynamics** chapter explains how psychological, political, and relational forces can erode or distort these levels, even when the structure looks correct.  
+- The **System Modes** describe how to work with this whole system over time — designing it, stabilizing it, growing it, addressing conflict, or resetting it.
 
-Together, they allow you to move from “we need better practices” to a more precise question:
+Taken together, they let you move from:
 
-**“Which level of cooperation is unstable, and what must be restored or supported there first?”**
+> “We need better practices”
+
+to the more precise and systemic question:
+
+> **“Which level of cooperation is unstable, and what must be restored or supported there first?”**
