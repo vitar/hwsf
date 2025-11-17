@@ -1,5 +1,5 @@
 site_name: "Human Cooperation System (HCS)"
-site_description: "A diagnostic lens for understanding how human cooperation enables effective work."
+site_description: "A system model for designing, sustaining, and diagnosing human cooperation in complex work."
 site_author: "Viktor Jevdokimov, Vilnius, Lithuania"
 copyright: "© 2025 3in3.dev"
 
@@ -36,7 +36,7 @@ plugins:
   - search
   - to-pdf:
       output_path: "pdf/hcs.pdf"
-      cover_subtitle: "A diagnostic lens for understanding how human cooperation enables effective work."
+      cover_subtitle: "A system model for designing, sustaining, and diagnosing human cooperation in complex work."
       toc_level: 3
       ordered_chapter_level: 3
 
