@@ -81,7 +81,7 @@ It provides a vocabulary for diagnosing human complexity without turning HCS int
 2. Explore the **[Matrix](100-core-model/110-matrix.md)** — a five-by-five landscape of *conditions × needs*.
 3. Study the **[Pyramid](100-core-model/120-pyramid.md)** to see how stability develops from *preconditions → meta-practices*.
 4. Apply **[The Level Rule](100-core-model/130-level-rule.md)** to identify where interventions must start.
-5. Use the **[Diagnostic Workflow](100-core-model/140-diagnostic-workflow.md)** to turn observations into action.
+5. Use the **Diagnostic Workflow** to turn observations into action.
 
 ### Continue with **Extended Human Dynamics** (optional, recommended)
 
@@ -89,9 +89,9 @@ If the Core Model is clear but cooperation still feels tense, political, or emot
 
 - **[Extended Conditions](200-extended-model/210-extended-conditions.md)**
 - **[Extended Needs](200-extended-model/220-extended-needs.md)**
-- **[Diagnostic Dynamics](200-extended-model/230-diagnostic-dynamics.md)**
-- **[Practices Map](200-extended-model/240-practices-map.md)**
-- **[Integration Guide](200-extended-model/250-integration-guide.md)**
+- **Diagnostic Dynamics**
+- **Practices Map**
+- **Integration Guide**
 
 This layer helps diagnose complexity without conflating human issues with structural ones.
 

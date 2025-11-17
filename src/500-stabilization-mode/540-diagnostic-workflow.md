@@ -26,7 +26,7 @@ This ensures that diagnosis starts from data, not opinion.
 
 ### **2. Matrix Mapping — Locate where it lives**
 
-Map the observation to the **[HCS Matrix](110-matrix.md)**:<br/>
+Map the observation to the **[HCS Matrix](../100-core-model/110-matrix.md)**:<br/>
 Which **Condition** (vertical axis) and which **Human Need** (horizontal axis) are involved?
 If the structural cell seems correct but the issue persists emotionally or politically, use the [**Extended Human Dynamics**](../200-extended-model/200-intro-purpose.md) section to examine contextual or relational distortions.
 
@@ -38,7 +38,7 @@ This step anchors the issue to a specific **function** — preventing vague prob
 
 ### **3. Level Check — Find how deep the root is**
 
-Determine the **lowest affected level** in the [HCS Pyramid](120-pyramid.md):
+Determine the **lowest affected level** in the [HCS Pyramid](../100-core-model/120-pyramid.md):
 
 | If the problem is about… | It likely belongs to… |
 |---------------------------|-----------------------|
@@ -58,7 +58,7 @@ This step is where the **Level Rule** applies — fix lower levels first.
 
 Once you’ve located the function, choose or design a **practice** that fulfills it.
 
-Use the 25 [Matrix functions](110-matrix.md) as your reference for what “healthy cooperation” looks like.<br/>
+Use the 25 [Matrix functions](../100-core-model/110-matrix.md) as your reference for what “healthy cooperation” looks like.<br/>
 The practice can be a known method or a custom one suited to your context.
 
 **Example:**

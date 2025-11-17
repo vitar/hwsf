@@ -69,7 +69,7 @@ Extended Dynamics = what cooperation must navigate.**
 5. **Use referenced practices intentionally, not as default solutions.**<br/>
    This section clarifies when tools like DiSC or SCARF help—and when they distract from systemic issues.
 
-For combining **Core** and **Extended** insights, see the [**Integration Guide**](250-integration-guide.md).
+For combining **Core** and **Extended** insights, see the **Integration Guide**.
 
 ## Scope of This Section
 
