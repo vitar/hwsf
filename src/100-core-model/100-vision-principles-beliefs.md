@@ -5,7 +5,39 @@ It describes the **conditions** and **functions** that sustain cooperation, and 
 
 HCS treats cooperation not as a cultural preference or interpersonal skillset, but as a **governable system** — one that can be designed, stabilized, and evolved across different modes of work.
 
-# Vision
+## Why Systems Break
+
+Human cooperation breaks long before performance drops.  
+When people struggle to work together, the cause is rarely skills, motivation, or tools — it is almost always a **systemic mismatch in how interdependence is handled**.
+
+At the root of this mismatch are two parallel, conflicting paths for solving problems in organizations:
+
+### The Two Paths of Problem Solving
+
+**The Path of Encapsulation — Reducing Interdependence**  
+Encapsulation tries to *avoid* friction by narrowing collaboration: clearer handoffs, stronger boundaries, fixed responsibilities, predefined inputs and outputs.  
+This works well when the work is stable, modular, or predictable.  
+But it collapses when ambiguity rises, understanding must be negotiated, or decisions require shared judgment.
+
+**The Path of Integration — Managing Interdependence**  
+Integration treats friction as **information**, not noise.  
+It aligns meaning, boundaries, and decisions so that people can make sense of complexity together.  
+Integration becomes essential when work is cross-functional, uncertain, political, or fast-changing.
+
+### The Core Reason Systems Break
+
+Most cooperative systems fail because teams attempt to solve an **integration problem using encapsulation tools**:
+
+- Ambiguity is high → but meaning is not aligned.  
+- Boundaries are fluid → but roles remain rigid.  
+- Decisions require shared judgment → but authority stays siloed.  
+- Human dynamics affect outcomes → but governance ignores them.
+
+This mismatch produces predictable symptoms: misalignment, rework, dependency friction, escalating tension, and loss of trust.
+
+**HCS exists to reveal which path is required, when, and why — and to provide the structure for governing interdependence instead of fighting it.**
+
+## Vision
 
 To enable individuals, teams, and organizations to **work together intentionally and reliably**, regardless of domain, structure, or methodology.  
 HCS envisions a world where cooperation is understood as a **systemic discipline**, not an accidental outcome of talent, tools, or goodwill.
@@ -13,25 +45,7 @@ HCS envisions a world where cooperation is understood as a **systemic discipline
 > **Vision Statement**  
 > *A cooperative world where systems of work evolve with people — not against them.*
 
-# Why Systems Break:  
-## The Two Paths of Problem Solving
-
-Every collaborative environment follows one of two parallel paths when dealing with friction:
-
-### **The Path of Encapsulation — Reducing Interdependence**  
-This path seeks to *avoid* friction by tightening boundaries, separating responsibilities, and minimizing shared meaning.  
-It works well for simple, predictable, or modular work — but becomes brittle when ambiguity or change increases.
-
-### **The Path of Integration — Managing Interdependence**  
-This path treats friction as information and aims to align meaning, boundaries, and decisions across people and roles.  
-It is required for complex, cross-functional, political, or rapidly evolving work.
-
-Both paths are legitimate.  
-Most teams struggle because they try to solve an **integration problem with encapsulation tools**, leaving deeper systemic needs unaddressed.
-
-**HCS provides the structure for understanding which path is needed, when, and why.**
-
-# Principles
+## Principles
 
 The following principles form the **systemic physics** of cooperation.  
 They define how cooperative systems remain stable and why interventions must respect the underlying structure.
@@ -50,7 +64,7 @@ They define how cooperative systems remain stable and why interventions must res
 
 These principles guide how the HCS Core Model and System Modes should be interpreted and used.
 
-# Beliefs
+## Beliefs
 
 HCS is grounded in several foundational beliefs about human work systems:
 
@@ -75,7 +89,7 @@ HCS is grounded in several foundational beliefs about human work systems:
 7. **Friction is information.**  
    Cooperation improves when teams learn to examine tension instead of avoiding or escalating it.
 
-# Scope and Non-Goals
+## Scope and Non-Goals
 
 HCS defines **what makes cooperation possible**, not how to run projects or structure organizations.  
 It provides the foundation beneath methods — not a method itself.
