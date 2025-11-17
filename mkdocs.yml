@@ -53,24 +53,20 @@ nav:
     - 200-extended-model/220-extended-needs.md
   - SYSTEM MODES:
     - 300-system-modes/300-intro-purpose.md
-    - 300-system-modes/350-integration-guide.md
-    - SETUP MODE:
-      - 400-setup-mode/400-intro-purpose.md
-    - STABILIZATION MODE:
-      - 500-stabilization-mode/500-intro-purpose.md
-      - 500-stabilization-mode/540-diagnostic-workflow.md
-      - 500-stabilization-mode/550-diagnostic-dynamics.md
-    - GROWTH MODE:
-      - 600-growth-mode/600-intro-purpose.md
-    - CONFLICT MODE:
-      - 700-conflict-mode/700-intro-purpose.md
-    - RESET MODE:
-      - 800-reset-mode/800-intro-purpose.md
+    - 300-system-modes/310-setup-mode.md
+    - 300-system-modes/320-stabilization-mode.md
+    - 300-system-modes/330-growth-mode.md
+    - 300-system-modes/340-conflict-mode.md
+    - 300-system-modes/350-reset-mode.md
+  - DIAGNOSTICS:
+    - 400-diagnostics/400-integration-guide.md
+    - 400-diagnostics/410-diagnostic-workflow.md
+    - 400-diagnostics/420-diagnostic-dynamics.md
   - REFERENCE:
-    - 900-reference/920-glossary.md
-    - 900-reference/930-sources-and-frameworks.md
-    - 900-reference/940-practices-map.md
-    - 900-reference/990-version-and-licensing.md
+    - 500-reference/520-glossary.md
+    - 500-reference/530-sources-and-frameworks.md
+    - 500-reference/540-practices-map.md
+    - 500-reference/590-version-and-licensing.md
     - author.md
 
 markdown_extensions:
