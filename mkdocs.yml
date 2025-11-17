@@ -56,10 +56,16 @@ nav:
     - 200-extended-model/230-diagnostic-dynamics.md
     - 200-extended-model/240-practices-map.md
     - 200-extended-model/250-integration-guide.md
+  - SYSTEM MODES:
+    - SETUP MODE:
+    - STABILIZATION MODE:
+    - GROWTH MODE:
+    - CONFLICT MODE:
+    - RESET MODE:
   - REFERENCE:
-    - 300-reference/320-glossary.md
-    - 300-reference/330-sources-and-frameworks.md
-    - 300-reference/360-version-and-licensing.md
+    - 800-reference/820-glossary.md
+    - 800-reference/830-sources-and-frameworks.md
+    - 800-reference/860-version-and-licensing.md
     - author.md
 
 markdown_extensions:
