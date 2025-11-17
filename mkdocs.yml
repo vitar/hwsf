@@ -1,5 +1,5 @@
 site_name: "Human Cooperation System (HCS)"
-site_description: "A diagnostic lens for understanding how human cooperation enables effective work."
+site_description: "A system model for designing, sustaining, and diagnosing human cooperation in complex work."
 site_author: "Viktor Jevdokimov, Vilnius, Lithuania"
 copyright: "© 2025 3in3.dev"
 
@@ -36,7 +36,7 @@ plugins:
   - search
   - to-pdf:
       output_path: "pdf/hcs.pdf"
-      cover_subtitle: "A diagnostic lens for understanding how human cooperation enables effective work."
+      cover_subtitle: "A system model for designing, sustaining, and diagnosing human cooperation in complex work."
       toc_level: 3
       ordered_chapter_level: 3
 
@@ -47,19 +47,26 @@ nav:
     - 100-core-model/100-vision-principles-beliefs.md
     - 100-core-model/110-matrix.md
     - 100-core-model/120-pyramid.md
-    - 100-core-model/130-level-rule.md
-    - 100-core-model/140-diagnostic-workflow.md
   - EXTENDED HUMAN DYNAMICS:
     - 200-extended-model/200-intro-purpose.md
     - 200-extended-model/210-extended-conditions.md
     - 200-extended-model/220-extended-needs.md
-    - 200-extended-model/230-diagnostic-dynamics.md
-    - 200-extended-model/240-practices-map.md
-    - 200-extended-model/250-integration-guide.md
+  - SYSTEM MODES:
+    - 300-system-modes/300-intro-purpose.md
+    - 300-system-modes/310-setup-mode.md
+    - 300-system-modes/320-stabilization-mode.md
+    - 300-system-modes/330-growth-mode.md
+    - 300-system-modes/340-conflict-mode.md
+    - 300-system-modes/350-reset-mode.md
+  - DIAGNOSTICS:
+    - 400-diagnostics/400-integration-guide.md
+    - 400-diagnostics/410-diagnostic-workflow.md
+    - 400-diagnostics/420-diagnostic-dynamics.md
   - REFERENCE:
-    - 300-reference/320-glossary.md
-    - 300-reference/330-sources-and-frameworks.md
-    - 300-reference/360-version-and-licensing.md
+    - 500-reference/520-glossary.md
+    - 500-reference/530-sources-and-frameworks.md
+    - 500-reference/540-practices-map.md
+    - 500-reference/590-version-and-licensing.md
     - author.md
 
 markdown_extensions:
