@@ -1,141 +1,261 @@
-# Diagnostic Workflow — Observation → Matrix → Level → Function → Practice
+# Diagnostic Workflow – From Observation to Intervention
 
-## Why the Diagnostic Workflow Exists
+The **HCS Diagnostic Workflow** is a small loop that turns the Core Model into a usable lens.
 
-The **HCS Diagnostic Workflow** turns theory into action.<br/>
-It provides a structured loop for tracing **observable issues** in cooperation back to their **systemic root causes** — before deciding how to intervene.
+It provides a structured way to trace **observable issues** in cooperation back to their **systemic root causes** in the Matrix and Pyramid — before you decide how to intervene or which System Mode to operate in.
 
-Most improvement efforts fail because they start with *practice changes* (Level 4) rather than diagnosing *which level of cooperation is weak*.<br/>
-This workflow keeps analysis grounded and ensures each corrective action strengthens the right layer of the system.
+Most improvement efforts fail because they start with *practice changes* (Level 4) rather than asking:
 
-> The goal is not to fix symptoms — it’s to restore coherence between **conditions, needs, and functions**.
+> “At which level of cooperation is this actually unstable?”
 
-## How the Workflow Works
+This workflow keeps analysis grounded and ensures each corrective action strengthens the **right layer** of the system.
 
-Use this short, structured loop on any issue or pattern you observe.
+## Why This Workflow Exists
 
-### **1. Observation — Capture evidence**
+The workflow exists to:
 
-Write down what you *see, hear, or measure* — without interpretation or blame.<br/>
-Focus on **observable behavior**, not assumptions.
+- move from vague problem labels (“communication issue”, “planning is bad”)  
+  to **specific matrix cells and levels**;
+- respect the **Level Rule** (stabilize lower levels before adjusting higher ones);
+- avoid jumping straight into tools and methods without understanding what function they are supposed to serve.
 
-**Example:**
-> “Critical dependencies were discovered late; downstream team blocked twice this sprint.”
+It focuses on the **Core Model** first:
 
-This ensures that diagnosis starts from data, not opinion.
+- Conditions × Needs → Functions (Matrix)  
+- Levels 1–5 (Pyramid)
 
-### **2. Matrix Mapping — Locate where it lives**
+Extended Human Dynamics and System Modes are layered on **after** this basic structural pass.
 
-Map the observation to the **[HCS Matrix](../100-core-model/110-matrix.md)**:<br/>
-Which **Condition** (vertical axis) and which **Human Need** (horizontal axis) are involved?
-If the structural cell seems correct but the issue persists emotionally or politically, use the [**Extended Human Dynamics**](../200-extended-model/200-intro-purpose.md) section to examine contextual or relational distortions.
+## When to Use the Diagnostic Workflow
 
-**Example:**
-> **Interdependence × Feedback Loops → Outcome Reflection**<br/>
-> Late discovery means coordination and feedback signals are weak.
+Use this workflow when:
 
-This step anchors the issue to a specific **function** — preventing vague problem statements like “communication issue” or “poor planning.”
+- you observe **recurring friction**, not one-off incidents;
+- multiple people describe the same issue in different words;
+- you are tempted to “roll out a new practice” but cannot clearly say which function it should support;
+- you are in **Stabilization Mode** and need to understand where to repair first;
+- you are in **Growth, Conflict, or Reset Mode** and want a clearer view of the underlying structure.
 
-### **3. Level Check — Find how deep the root is**
+It works at multiple scales:
 
-Determine the **lowest affected level** in the [HCS Pyramid](../100-core-model/120-pyramid.md):
+- within a single team;
+- across client–vendor relationships;
+- across functions (e.g., business, product, engineering, operations).
 
-| If the problem is about… | It likely belongs to… |
-|---------------------------|-----------------------|
-| Missing purpose, trust, or communication basics | **Level 1 – Preconditions** |
-| Misalignment, unclear roles, weak feedback, low agency | **Level 2 – Human Needs** |
-| Broken coordination or learning cycles | **Level 3 – Functions** |
-| Ineffective or misapplied methods | **Level 4 – Practices** |
-| Lack of reflection or self-improvement | **Level 5 – Meta-Practices** |
+## Workflow Overview
 
-**Example:**
-> Repeated late dependency discovery → weak **Level 3 Monitoring & Feedback**<br/>
-> Possibly thin **Level 2 Feedback Loops** underneath.
+The diagnostic loop has five steps:
 
-This step is where the **Level Rule** applies — fix lower levels first.
+1. **Observation** – Capture neutral evidence.  
+2. **Matrix Mapping** – Locate the function (Condition × Need).  
+3. **Level Check** – Identify the lowest unstable level.  
+4. **Function → Practice** – Decide what to strengthen and how.  
+5. **Trial & Learn** – Run a small experiment and review.
 
-### **4. Function to Practice — Select what to strengthen**
+You can run this loop in minutes for a single issue, or more formally for bigger patterns.
 
-Once you’ve located the function, choose or design a **practice** that fulfills it.
+## Step 1. Observation – Capture Evidence
 
-Use the 25 [Matrix functions](../100-core-model/110-matrix.md) as your reference for what “healthy cooperation” looks like.<br/>
-The practice can be a known method or a custom one suited to your context.
+Start with what you **see, hear, or measure** — without interpretation or blame.
 
-**Example:**
-> Function: *Communication × Feedback Loops → Signal & Response*<br/>
-> Practice ideas:<br/>
-> - Add an explicit dependency scan before each sprint.
-> - Introduce a daily “risk surfacing” moment.
-> - Create a visual “Andon” signal for cross-team blockers.
+Focus on **observable behavior**, not motives or personality.
 
-### **5. Trial & Learn — Validate and iterate**
+Examples:
 
-Run the chosen practice for 1–2 cycles and track a **specific observable signal** (not vague satisfaction scores).<br/>
-If it doesn’t produce the expected outcome, recheck **lower levels** before trying another practice.
+- “Critical dependencies were discovered three days before release; downstream team blocked twice this sprint.”  
+- “Access requests for test environments waited 10–14 days before approval in the last three cycles.”  
+- “In three consecutive steering meetings, we changed the priority of the same initiative.”
 
-**Example:**
-> Watch: *Reduction in repeated dependency delays within two sprints.*<br/>
-> If not improved → revisit Levels 2 and 3 for unaddressed issues in feedback culture.
+Good observations answer:
+
+- what happened,  
+- when and where,  
+- who was affected,  
+- how often it occurred.
+
+This ensures diagnosis starts from **data**, not opinion.
+
+## Step 2. Matrix Mapping – Locate the Function
+
+Next, ask:
+
+> “If I ignore individual motives for a moment, **where does this live in the Matrix**?”
+
+Map the observation to the **HCS Matrix**:
+
+- Pick the most relevant **Condition** (vertical axis):  
+  Common Purpose, Interdependence, Communication, Trust, Change/Uncertainty.
+- Pick the most relevant **Core Need** (horizontal axis):  
+  Shared Understanding, Mutual Commitment, Feedback Loops, Distribution of Roles, Autonomy & Agency.
+
+This gives you a specific **function** (cell) to work with.
+
+Example:
+
+> Issue: Dependencies discovered late; downstream team repeatedly blocked.  
+> Likely cell: **Interdependence × Feedback Loops → Outcome Reflection / Coordination Feedback**
+
+Another example:
+
+> Issue: Different leaders give conflicting statements about what “success” means.  
+> Likely cell: **Common Purpose × Shared Understanding → Alignment on Why**
+
+This step prevents vague labels like “communication problem” and anchors the issue to **one or a small set of functions**.
+
+If several cells seem plausible, note the top 2–3 and keep them as hypotheses.
+
+## Step 3. Level Check – Find How Deep the Root Is
+
+Now, decide at **which level of the Pyramid** the instability appears first.
+
+Use this as a quick guide:
+
+| If the problem is mainly about… | It likely belongs to… |
+|---------------------------------|------------------------|
+| No shared reason to cooperate, no real trust, no basic communication ground | **Level 1 – Preconditions** |
+| Misalignment, unclear expectations, weak feedback, low perceived agency | **Level 2 – Core Needs** |
+| Broken coordination, planning, or learning cycles | **Level 3 – Functions** |
+| Ineffective or over-complicated methods | **Level 4 – Practices & Frameworks** |
+| Lack of reflection on how we work, inability to adapt the system itself | **Level 5 – Meta-Practices & Innovation** |
+
+Examples:
+
+- Repeated late dependency discovery, even after checklists exist →  
+  likely **Level 3 – Monitoring & Feedback function**, with a possible **Level 2 – Feedback Loops** issue beneath.
+
+- Constant disagreement about what success means, despite having KPIs →  
+  likely **Level 1 – Common Purpose** and **Level 2 – Shared Understanding** problem; KPIs are Level 4 artifacts.
+
+The **Level Rule** applies here:
+
+> Stabilize **lower levels** before expecting higher levels (functions, practices, innovation) to work.
+
+If you find signs of instability at multiple levels, treat the **lowest one** as the primary diagnostic target.
+
+## Step 4. Function → Practice – Decide What to Strengthen
+
+Once you know:
+
+- **which function** is under strain (Matrix cell), and  
+- **which level** is unstable (Pyramid),
+
+you can choose or design a **practice** to support that function at the correct level.
+
+Use the 25 Matrix functions as a reference for what “healthy cooperation” looks like. The practice can be:
+
+- an existing method you already use;
+- a method borrowed from a known framework;
+- a lightweight, custom agreement that fits your context.
+
+Examples:
+
+1. Matrix cell: **Communication × Feedback Loops → Signal & Response**  
+   - Observed issue: risks and blockers appear “out of nowhere”.  
+   - Practice ideas:
+     - Add a daily or twice-weekly “risk surfacing” moment.  
+     - Introduce a simple, visible “stop-the-line” signal for serious blockers.  
+     - Define who must respond and within what time.
+
+2. Matrix cell: **Interdependence × Distribution of Roles → Coordination**  
+   - Observed issue: no one is clearly responsible for cross-team dependencies.  
+   - Practice ideas:
+     - Introduce a rotating “dependency coordinator” role.  
+     - Add a simple rule: “No new work started while unresolved cross-team blocker > X days.”
+
+The question is always:
+
+> “What **practice or agreement** would directly strengthen this function,  
+> at this level, in this context?”
+
+If the function is missing entirely, start with something **small and explicit**, not a heavy framework.
+
+## Step 5. Trial & Learn – Validate and Iterate
+
+Treat each diagnostic outcome as a **hypothesis**, not a verdict.
+
+For each chosen practice:
+
+1. Define a **simple signal or metric** to watch.  
+   - Time-to-unblock, frequency of rework, number of escalations, etc.
+
+2. Set a **review date** (e.g., after two sprints, one month, one release).
+
+3. Run the practice and then review:
+   - Did the specific observable issue improve?  
+   - If not, did something else become visible (e.g., resistance, new constraints)?
+
+If the practice does not help:
+
+- Re-check whether you targeted the **correct level**.  
+- Ask whether a **lower level** needs attention first (e.g., trust or shared understanding).  
+- Use the **Diagnostic Dynamics** file to explore contextual, relational, or political factors that may be blocking change.
+
+The point is not to find the perfect practice on the first try,  
+but to keep the loop **short, explicit, and learnable**.
 
 ## Output Template
 
-Use this lightweight template for documentation or reflection:
+You can use this lightweight template for documentation or reflection:
 
-```
+```text
 Observation:
-Matrix cell:
-Level(s) involved:
+Matrix cell(s):
+Lowest affected level:
 Function to strengthen:
 Practice(s) selected:
 Signal/metric to watch:
 Review date:
+Outcome / next step:
 ```
 
-You can use it in retrospectives, coaching sessions, or system diagnostics — it fits equally well in individual reflection or team learning contexts.
+It fits naturally into retrospectives, 1:1s, coaching sessions, or system reviews.
 
 ## Practical Example (Full Loop)
 
-**Observation:**<br/>
-“Design team’s updates rarely align with development progress; misinterpretations surface during QA.”
+**Observation**  
+“Design team’s updates rarely align with development progress; misinterpretations surface during QA. This has happened in the last three sprints.”
 
-**Matrix Mapping:**<br/>
+**Matrix Mapping**  
+Likely cell:  
 *Communication × Shared Understanding → Language / Terms*
 
-**Level Check:**<br/>
-Level 2–3 issue: weak shared understanding and coordination function.
+**Level Check**  
+- Level 2: Shared Understanding is weak (different mental models of the same work).  
+- Level 3: Coordination function between design and dev is under strain.
 
-**Function to Strengthen:**<br/>
-Clarify shared vocabulary and decision handoffs.
+**Function to Strengthen**  
+Create and maintain shared language and explicit handoff criteria.
 
-**Practice(s):**<br/>
-- Introduce weekly alignment review with both design and dev leads.
-- Create a shared “definition of ready” document.
+**Practice(s)**  
+- Introduce a short weekly alignment session between design and dev leads focused only on “what changed and what that means”.  
+- Create a shared “definition of ready” checklist for design handoffs.
 
-**Signal/Metric:**<br/>
-Reduced QA rework or clarifications needed after handoff.
+**Signal / Metric**  
+- Reduction in QA rework caused by misunderstanding.  
+- Fewer clarifications needed after design handoff.
 
-## Why It Matters
+**Review Date**  
+- After three sprints.
 
-This workflow transforms **improvement discussions** from reactive fixes to **systemic diagnosis**.<br/>
-It replaces “who made the mistake?” with “which part of the system is under strain?” — building psychological safety while improving results.
+**Outcome / Next Step**  
+- If signal improves: consider light optimization or extension.  
+- If not: revisit Level 1–2 assumptions (are purpose, priorities, or roles actually aligned?).
 
-> The HCS Diagnostic Workflow is the bridge between **theory and daily practice** — a loop that keeps cooperation systems alive, adaptive, and learnable.
+## Summary Table
 
-Used consistently, this workflow becomes the **practical heartbeat of HCS** — transforming abstract theory into measurable cooperative improvement.
+| Step | Question | Output |
+|------|----------|--------|
+| **1. Observation** | What is happening, concretely? | Neutral description of events/pattern |
+| **2. Matrix Mapping** | Where does this live structurally? | Condition × Need → Function (cell) |
+| **3. Level Check** | How deep is the instability? | Lowest affected level in the Pyramid |
+| **4. Function → Practice** | What should we strengthen? How? | Target function + candidate practice(s) |
+| **5. Trial & Learn** | Did it help? What did we learn? | Measured outcome + next adjustment |
 
-### Summary Table
+## Essence
 
-| Step | Purpose | Output |
-|------|----------|---------|
-| **1. Observation** | Capture neutral evidence | Statement of what happened |
-| **2. Matrix Mapping** | Locate systemic dimension | Condition × Need = Function |
-| **3. Level Check** | Identify root depth | Level(s) causing dysfunction |
-| **4. Function → Practice** | Define safe intervention | Function and matching practice |
-| **5. Trial & Learn** | Validate and adjust | Measurable feedback loop |
+Every cooperation issue can be traced through the same Core Model lens:
 
-### Essence
+> **Observation → Matrix → Level → Function → Practice → Learning**
 
-> Every cooperation issue can be traced through the same lens:<br/>
-> **Observation → Matrix → Level → Function → Practice → Learning.**
-
-This is how theory becomes a living system.
+This workflow does not replace judgment, System Modes, or Extended Human Dynamics.  
+It provides a **stable structural backbone** for all of them — a way to keep diagnosis grounded while you decide how to act.
