@@ -9,14 +9,15 @@ It ensures transparency, traceability, and consistency across all derivative wor
 | :--- | :--- |
 | **System Name** | Human Cooperation System (HCS) |
 | **Version** | **V2.0** |
-| **Status** | Stable — consolidated system release (Core Model + Dynamics + Modes + Diagnostics). |
+| **Status** | Stable — consolidated system release integrating Core Model, Extended Human Dynamics, System Modes, and Diagnostics. |
 | **Release Date** | November 2025 |
 | **Maintained by** | [3in3.dev](https://3in3.dev) |
 | **Repository** | [GitHub – vitar/hcs](https://github.com/vitar/hcs) |
 
 ### Version 2.0 Summary
 
-Version 2.0 keeps the **Core Model** (Matrix + Pyramid) and **Extended Human Dynamics** largely intact, while making HCS more *navigable and actionable over time* by introducing **System Modes** and clarifying how diagnostics work across all layers.
+Version 2.0 is the first fully consolidated release of HCS, integrating the Core Model, Extended Human Dynamics, System Modes, and Diagnostics into a single, unified cooperation system.  
+While it preserves conceptual continuity with V1.0, it supersedes V1.0 as the primary reference.
 
 Key additions and refinements:
 
@@ -43,7 +44,8 @@ Key additions and refinements:
     - able to support multiple applied frameworks (such as 3SF),
     - without becoming a delivery methodology or team process framework on its own.
 
-Overall, V2.0 **extends** rather than replaces V1.0, adding time-aware navigation (System Modes) and integrated Diagnostics while preserving the original structure of the Core Model and Extended Human Dynamics.
+Overall, V2.0 unifies all HCS elements into a coherent operating system and supersedes V1.0 as the authoritative model.  
+*(Version 1.0 remains available as historical context and early formulation of the Core Model.)*
 
 ### Version 1.0 Summary
 
