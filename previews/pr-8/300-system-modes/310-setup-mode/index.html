@@ -1,0 +1,1792 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A system model for designing, sustaining, and diagnosing human cooperation in complex work.">
+      
+      
+        <meta name="author" content="Viktor Jevdokimov, Vilnius, Lithuania">
+      
+      
+      
+        <link rel="prev" href="../300-intro-purpose/">
+      
+      
+        <link rel="next" href="../320-stabilization-mode/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+    
+    
+      
+        <title>Setup Mode – Design & Preconditions - Human Cooperation System (HCS)</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.618322db.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  
+  <script>
+    // Move the button into the actual header container on every page
+    document.addEventListener('DOMContentLoaded', function () {
+      var btn = document.getElementById('pdf-download');
+      var target = document.querySelector('.md-header .md-header__inner');
+      if (btn && target && !target.contains(btn)) target.appendChild(btn);
+    });
+  </script>
+
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#setup-mode-design-preconditions" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+  
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Human Cooperation System (HCS)" class="md-header__button md-logo" aria-label="Human Cooperation System (HCS)" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Human Cooperation System (HCS)
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Setup Mode – Design &amp; Preconditions
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9zM20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12zm-9.15 3.96h2.3L12 9z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+
+  <a id="pdf-download"
+     class="md-header__button md-icon"
+     href="../../pdf/hcs.pdf"
+     title="Download PDF"
+     aria-label="Download PDF">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg>
+  </a>
+
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Human Cooperation System (HCS)" class="md-nav__button md-logo" aria-label="Human Cooperation System (HCS)" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Human Cooperation System (HCS)
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    INTRODUCTION & QUICK START
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    INTRODUCTION & QUICK START
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Human Cooperation System (HCS) – From Context to Practice
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    CORE MODEL
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    CORE MODEL
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../100-core-model/100-vision-principles-beliefs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Vision, Principles, and Beliefs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../100-core-model/110-matrix/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Human Cooperation System Matrix
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../100-core-model/120-pyramid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Human Cooperation System Pyramid
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    EXTENDED HUMAN DYNAMICS
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    EXTENDED HUMAN DYNAMICS
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../200-extended-model/200-intro-purpose/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction &amp; Purpose
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../200-extended-model/210-extended-conditions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Extended Conditions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../200-extended-model/220-extended-needs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Extended Needs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    SYSTEM MODES
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    SYSTEM MODES
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../300-intro-purpose/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    System Modes – Introduction &amp; Purpose
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Setup Mode – Design &amp; Preconditions
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Setup Mode – Design &amp; Preconditions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#when-setup-mode-is-active" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        When Setup Mode Is Active
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#core-objectives-of-setup-mode" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Core Objectives of Setup Mode
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#core-model-focus-in-setup-mode" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Core Model Focus in Setup Mode
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#extended-dynamics-in-setup-mode" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Extended Dynamics in Setup Mode
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-to-prioritize-in-setup-mode" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What to Prioritize in Setup Mode
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-to-avoid-in-setup-mode" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What to Avoid in Setup Mode
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mode-transitions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mode Transitions
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Summary
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../320-stabilization-mode/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Stabilization Mode – Repair &amp; Calibration
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../330-growth-mode/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Growth Mode – Optimization &amp; Extension
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../340-conflict-mode/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Conflict Mode – Safety &amp; Realignment
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../350-reset-mode/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reset Mode – Existential Re-Evaluation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    DIAGNOSTICS
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    DIAGNOSTICS
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../400-diagnostics/400-integration-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Integration Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../400-diagnostics/410-diagnostic-workflow/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Diagnostic Workflow – From Observation to Intervention
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../400-diagnostics/420-diagnostic-dynamics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Diagnostic Dynamics – Working With Political and Psychological Fields
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    REFERENCE
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    REFERENCE
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../500-reference/520-glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Glossary
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../500-reference/530-sources-and-frameworks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sources and Frameworks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../500-reference/540-practices-map/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Practices Map
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../500-reference/590-version-and-licensing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Version and Licensing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../author/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About the Author
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#when-setup-mode-is-active" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        When Setup Mode Is Active
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#core-objectives-of-setup-mode" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Core Objectives of Setup Mode
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#core-model-focus-in-setup-mode" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Core Model Focus in Setup Mode
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#extended-dynamics-in-setup-mode" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Extended Dynamics in Setup Mode
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-to-prioritize-in-setup-mode" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What to Prioritize in Setup Mode
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-to-avoid-in-setup-mode" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What to Avoid in Setup Mode
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mode-transitions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mode Transitions
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Summary
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="setup-mode-design-preconditions">Setup Mode – Design &amp; Preconditions<a class="headerlink" href="#setup-mode-design-preconditions" title="Permanent link">&para;</a></h1>
+<p>Setup Mode is the <strong>architectural stance</strong> of HCS.</p>
+<p>It focuses on <strong>what must be true before we start cooperating</strong>, so that the system does not begin with hidden “cooperation debt.”</p>
+<p>Where the Core Model defines what cooperation <em>requires</em>,<br />
+Setup Mode asks:</p>
+<blockquote>
+<p>“Given this specific context and people,<br />
+<strong>how do we make those requirements explicit and agreed</strong> before work begins?”</p>
+</blockquote>
+<p>Setup Mode is about <strong>designing preconditions and expectations</strong>, not about fixing existing problems.</p>
+<h2 id="when-setup-mode-is-active">When Setup Mode Is Active<a class="headerlink" href="#when-setup-mode-is-active" title="Permanent link">&para;</a></h2>
+<p>You are in Setup Mode when:</p>
+<ul>
+<li>A <strong>new collaboration</strong> is forming (project, initiative, partnership, team).  </li>
+<li>An existing collaboration is being <strong>significantly redefined</strong> (new scope, new leader, new vendor, major restructuring).  </li>
+<li>A previous collaboration was effectively <strong>reset</strong>, and you are consciously rebuilding.  </li>
+<li>People are asking questions like:</li>
+<li>“Who is actually responsible for what?”  </li>
+<li>“How will we decide and escalate?”  </li>
+<li>“What does ‘success’ mean for each side?”  </li>
+<li>“What is in and out of scope for this relationship?”</li>
+</ul>
+<p>If the system already shows recurring friction, conflict, or fatigue, you are likely beyond pure Setup and closer to <strong>Stabilization</strong> or <strong>Reset</strong>.<br />
+Setup Mode works best <strong>before</strong> problems accumulate.</p>
+<h2 id="core-objectives-of-setup-mode">Core Objectives of Setup Mode<a class="headerlink" href="#core-objectives-of-setup-mode" title="Permanent link">&para;</a></h2>
+<p>Setup Mode has three primary objectives:</p>
+<ol>
+<li><strong>Establish Preconditions (Level 1)</strong><br />
+   Make the foundational conditions of cooperation <strong>explicit and shared</strong>:</li>
+<li>Why we are cooperating together (Common Purpose).  </li>
+<li>How we depend on each other (Interdependence).  </li>
+<li>How we will communicate (Communication).  </li>
+<li>What trust will be based on (Trust).  </li>
+<li>
+<p>How we expect change and uncertainty to be handled (Change / Uncertainty).</p>
+</li>
+<li>
+<p><strong>Define Core Cooperative Needs (Level 2) in This Context</strong><br />
+   Translate abstract cooperative needs into <strong>concrete agreements</strong>:</p>
+</li>
+<li>What Shared Understanding looks like in practice.  </li>
+<li>What Mutual Commitment means for each party.  </li>
+<li>Which Feedback Loops we will rely on.  </li>
+<li>How roles and responsibilities will be distributed.  </li>
+<li>
+<p>Where autonomy is desired and where constraints are necessary.</p>
+</li>
+<li>
+<p><strong>Select an Initial Cooperation Shape</strong><br />
+   Decide <strong>where to encapsulate and where to integrate</strong>:</p>
+</li>
+<li>Which work can be modularized with clear contracts and handoffs.  </li>
+<li>Which work requires shared sense-making and joint decisions.  </li>
+<li>How boundaries, decision rights, and interfaces will be defined.</li>
+</ol>
+<p>The outcome of Setup Mode is a <strong>shared cooperation design</strong> – not just a scope statement or project plan.</p>
+<h2 id="core-model-focus-in-setup-mode">Core Model Focus in Setup Mode<a class="headerlink" href="#core-model-focus-in-setup-mode" title="Permanent link">&para;</a></h2>
+<p>Setup Mode works mainly on <strong>Levels 1 and 2</strong> of the Pyramid, with a light touch on Level 3:</p>
+<ul>
+<li><strong>Level 1 – Preconditions for Cooperation</strong>  </li>
+<li>Clarifying purpose for all parties.  </li>
+<li>Making interdependence visible, not assumed.  </li>
+<li>Choosing communication channels and rhythms.  </li>
+<li>Stating the basis of trust (what we will rely on each other for).  </li>
+<li>
+<p>Agreeing how change will be handled, not just how to proceed if all goes well.</p>
+</li>
+<li>
+<p><strong>Level 2 – Core Human Needs for Cooperative Work</strong>  </p>
+</li>
+<li>Agreeing what “enough Shared Understanding” means before starting.  </li>
+<li>Making Mutual Commitment explicit and reciprocal.  </li>
+<li>Defining Feedback Loops early (what we will measure, how we will talk about it).  </li>
+<li>Outlining Distribution of Roles and how this will evolve.  </li>
+<li>
+<p>Naming where Autonomy &amp; Agency are required and where they are constrained.</p>
+</li>
+<li>
+<p><strong>Level 3 – Cooperative System Functions</strong> (lightly)<br />
+  Setup Mode does not fully design all functions, but it should:</p>
+</li>
+<li>Decide how <strong>Problem Discovery</strong> will happen (who frames the problem and how often).  </li>
+<li>Sketch how <strong>Planning &amp; Prioritization</strong> will be shared between parties.  </li>
+<li>Agree on basic <strong>Monitoring &amp; Feedback</strong> mechanisms (rhythms, data, conversations).</li>
+</ul>
+<p>Setup Mode respects the <strong>Level Rule</strong> by <strong>not jumping directly to practices</strong> at Level 4.<br />
+Method choices and tools can be deferred until the foundations are clear.</p>
+<h2 id="extended-dynamics-in-setup-mode">Extended Dynamics in Setup Mode<a class="headerlink" href="#extended-dynamics-in-setup-mode" title="Permanent link">&para;</a></h2>
+<p>Setup Mode is also the moment when <strong>Extended Conditions and Extended Needs</strong> can be addressed before they become invisible “politics” later.</p>
+<p>Common <strong>Extended Conditions</strong> to consider:</p>
+<ul>
+<li><strong>Contextual:</strong>  </li>
+<li>What constraints, risks, or pressures are already shaping this cooperation?  </li>
+<li>
+<p>What is the wider organizational or market context?</p>
+</li>
+<li>
+<p><strong>Relational:</strong>  </p>
+</li>
+<li>What prior history exists between the people or organizations involved?  </li>
+<li>
+<p>Are there existing alliances, expectations, or unresolved tensions?</p>
+</li>
+<li>
+<p><strong>Structural:</strong>  </p>
+</li>
+<li>Where are the natural gatekeepers (access, decisions, resources)?  </li>
+<li>
+<p>How will other teams or departments indirectly affect this cooperation?</p>
+</li>
+<li>
+<p><strong>Developmental:</strong>  </p>
+</li>
+<li>Is this a first-time collaboration or a repeated pattern?  </li>
+<li>What has been learned from similar past efforts?</li>
+</ul>
+<p>Common <strong>Extended Needs</strong> to surface:</p>
+<ul>
+<li><strong>Purpose &amp; Direction:</strong>  </li>
+<li>What does “success” look like for each side?  </li>
+<li>
+<p>What hidden objectives (career, strategy, reputation) might be present?</p>
+</li>
+<li>
+<p><strong>Trust &amp; Safety:</strong>  </p>
+</li>
+<li>What would make this cooperation feel safe or unsafe?  </li>
+<li>
+<p>How will we raise concerns without causing unnecessary escalation?</p>
+</li>
+<li>
+<p><strong>Autonomy &amp; Coherence:</strong>  </p>
+</li>
+<li>Where does each side need freedom, and where do we need tight alignment?  </li>
+<li>How do local choices remain coherent with the overall purpose?</li>
+</ul>
+<p>Setup Mode is the best time to <strong>name these topics explicitly</strong>, before they crystallize into unspoken assumptions.</p>
+<h2 id="what-to-prioritize-in-setup-mode">What to Prioritize in Setup Mode<a class="headerlink" href="#what-to-prioritize-in-setup-mode" title="Permanent link">&para;</a></h2>
+<p>In Setup Mode, prioritize:</p>
+<ul>
+<li>
+<p><strong>Clarity over speed</strong><br />
+  Spend effort on shared understanding of purpose, constraints, and expectations.</p>
+</li>
+<li>
+<p><strong>Integration where it matters</strong><br />
+  Decide which parts of the work require shared sense-making, not just handoffs.</p>
+</li>
+<li>
+<p><strong>Realistic commitments</strong><br />
+  Make commitments that reflect constraints, risks, and interdependence, not idealized plans.</p>
+</li>
+<li>
+<p><strong>Explicit boundaries</strong><br />
+  Define who decides what, where the edges of responsibility are, and how to handle overlap.</p>
+</li>
+<li>
+<p><strong>Early feedback channels</strong><br />
+  Commit to how you will detect misalignment or emerging friction and how you will respond.</p>
+</li>
+</ul>
+<h2 id="what-to-avoid-in-setup-mode">What to Avoid in Setup Mode<a class="headerlink" href="#what-to-avoid-in-setup-mode" title="Permanent link">&para;</a></h2>
+<p>Avoid:</p>
+<ul>
+<li>
+<p><strong>Rushing to practices and tools (Level 4)</strong><br />
+  Selecting frameworks, ceremonies, or tooling before foundations are clear.</p>
+</li>
+<li>
+<p><strong>Assuming alignment on purpose</strong><br />
+  Treating a shared project label or contract as proof of shared meaning.</p>
+</li>
+<li>
+<p><strong>Ignoring extended dynamics</strong><br />
+  Pretending politics, history, or power asymmetries do not exist.</p>
+</li>
+<li>
+<p><strong>Over-encapsulation</strong><br />
+  Designing everything as a clean interface when some areas clearly require integration.</p>
+</li>
+<li>
+<p><strong>Over-promising and back-loading risk</strong><br />
+  Agreeing to outcomes and timelines that depend on assumptions you have not tested or discussed.</p>
+</li>
+</ul>
+<h2 id="mode-transitions">Mode Transitions<a class="headerlink" href="#mode-transitions" title="Permanent link">&para;</a></h2>
+<p>Typical transitions <strong>into</strong> Setup Mode:</p>
+<ul>
+<li>New initiative, engagement, or partnership.  </li>
+<li>Major change in scope, leadership, or environment that makes the old design obsolete.  </li>
+<li>Entering Reset Mode and deciding to rebuild.</li>
+</ul>
+<p>Typical transitions <strong>out of</strong> Setup Mode:</p>
+<ul>
+<li>Into <strong>Stabilization Mode</strong>, once work starts and real-world friction appears.  </li>
+<li>Into <strong>Growth Mode</strong>, if early cooperation is smooth and foundations prove robust.</li>
+</ul>
+<p>Unhealthy patterns:</p>
+<ul>
+<li>Skipping Setup Mode entirely and jumping straight into execution.  </li>
+<li>Treating Setup as a one-time ceremony instead of something that can be revisited when context or assumptions change.</li>
+</ul>
+<h2 id="summary">Summary<a class="headerlink" href="#summary" title="Permanent link">&para;</a></h2>
+<p>Setup Mode gives cooperation a <strong>deliberate starting shape</strong>.<br />
+It does not guarantee the absence of problems, but it ensures that:</p>
+<ul>
+<li>when problems appear,  </li>
+<li>they appear <strong>against a clear, shared baseline</strong>  </li>
+<li>rather than inside a fog of unspoken expectations.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../300-intro-purpose/" class="md-footer__link md-footer__link--prev" aria-label="Previous: System Modes – Introduction &amp;amp; Purpose">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                System Modes – Introduction &amp; Purpose
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../320-stabilization-mode/" class="md-footer__link md-footer__link--next" aria-label="Next: Stabilization Mode – Repair &amp;amp; Calibration">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Stabilization Mode – Repair &amp; Calibration
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      © 2025 3in3.dev
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.sections", "navigation.expand", "navigation.footer", "navigation.instant", "navigation.instant.prefetch", "navigation.tracking", "content.code.copy"], "search": "../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.e71a0d61.min.js"></script>
+      
+    
+  </body>
+</html>
