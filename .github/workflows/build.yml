@@ -74,6 +74,13 @@ jobs:
             mkdocs build --strict -f mkdocs.yml --site-dir dist/site
           fi
 
+      - name: Build GPT knowledge bundle
+        env:
+          CONFIG_FILE: gpt/gpt_knowledge_sources.txt
+          OUTPUT_FILE: dist/site/gpt/gpt_knowledge.txt
+        run: |
+          python build_gpt_bundle.py
+
       - name: Upload dist artifacts (for debugging)
         uses: actions/upload-artifact@v4
         with:

@@ -1,0 +1,22 @@
+# Ordered list of Markdown files to include in gpt_knowledge.txt
+# Paths are relative to the repository root.
+gpt/instructions.md
+src/index.md
+src/100-core-model/100-vision-principles-beliefs.md
+src/100-core-model/110-matrix.md
+src/100-core-model/120-pyramid.md
+src/200-extended-model/200-intro-purpose.md
+src/200-extended-model/210-extended-conditions.md
+src/200-extended-model/220-extended-needs.md
+src/300-system-modes/300-intro-purpose.md
+src/300-system-modes/310-setup-mode.md
+src/300-system-modes/320-stabilization-mode.md
+src/300-system-modes/330-growth-mode.md
+src/300-system-modes/340-conflict-mode.md
+src/300-system-modes/350-reset-mode.md
+src/400-diagnostics/400-integration-guide.md
+src/400-diagnostics/410-diagnostic-workflow.md
+src/400-diagnostics/420-diagnostic-dynamics.md
+src/500-reference/520-glossary.md
+src/500-reference/530-sources-and-frameworks.md
+src/500-reference/540-practices-map.md
